@@ -1,6 +1,6 @@
 import re
 
-from exceptions import *
+from .exceptions import *
 
 pattern = re.compile("^[A-Za-z0-9]{8}$")
 

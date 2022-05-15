@@ -1,6 +1,8 @@
-from . import *
+from .hotpay import *
+from .microsms import *
+from .lvlup import *
 
-__title__ = "polish-py-payments"
+__title__ = "polish_py_payments"
 __summary__ = "Polish payment providers in python"
 __uri__ = "https://github.com/ivall/polish-py-payments"
 __version__ = "1.0.0"

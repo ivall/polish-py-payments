@@ -4,7 +4,7 @@ import json
 from typing import Union
 from hashlib import sha256
 
-from exceptions import SmsException, IncorrectSmsCode, TransferException
+from .exceptions import SmsException, IncorrectSmsCode, TransferException
 
 
 strOrNone = Union[str, None]
