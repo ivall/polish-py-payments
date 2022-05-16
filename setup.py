@@ -11,6 +11,7 @@ setup(
     author='ivall',
     description='Polish payment providers in python',
     long_description=long_description,
+    long_description_content_type="text/markdown",
     url='https://github.com/ivall/polish-py-payments',
     keywords='polish payments, payments, payment provider',
     python_requires='>=3.6, <4',

@@ -1,5 +1,5 @@
 # polish-py-payments
-
+[![Downloads](https://static.pepy.tech/personalized-badge/polish-py-payments?period=total&units=international_system&left_color=black&right_color=blue&left_text=Downloads)](https://pepy.tech/project/polish-py-payments)
 #### Dokumentacja nie jest skończona.
 
 ### Instalacja
