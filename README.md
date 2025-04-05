@@ -23,8 +23,3 @@ from polish_py_payments import HotpayTransfer
 ```python
 from polish_py_payments import HotpaySms
 ```
-
-### Operator MicroSms
-```python
-from polish_py_payments import Microsms
-```
